@@ -1,20 +1,34 @@
 # 💻 PHP na Prática
 
-Projeto web simples desenvolvido para aplicar conceitos básicos de **PHP** na prática, integrando também **HTML**, **CSS** e **JavaScript**.
+Projeto web simples desenvolvido para aplicar conceitos básicos de **PHP** na prática, integrando **HTML**, **CSS** e **JavaScript** em uma estrutura organizada e funcional.
 
-## 🌐 Deploy
+## 🌐 Acesso ao Projeto
 
-🔗 [Acessar projeto online](https://php-na-pratica.vercel.app)
+### 🔹 Visualização principal
 
-## 🚀 Objetivo
+🔗 [Acessar projeto online (InfinityFree)](https://webdevluis.infinityfreeapp.com/index.php)
 
-Este projeto foi criado com o objetivo de praticar:
+### 🔹 Código-fonte
 
-* Estruturação de páginas web
-* Separação de arquivos por responsabilidade
-* Inclusão de componentes com PHP
-* Envio e processamento de formulários
-* Integração entre front-end e back-end
+🔗 [Acessar repositório no GitHub](https://github.com/SEU-USUARIO/php-na-pratica)
+
+### 🔹 Outra opção de visualização
+
+🔗 [Acessar versão publicada na Vercel](https://php-na-pratica.vercel.app)
+
+## 📌 Sobre o projeto
+
+Este projeto foi criado com o objetivo de praticar o uso do **PHP no desenvolvimento web**, entendendo como a linguagem funciona no lado do servidor e como ela pode ser integrada ao front-end.
+
+## 🚀 Objetivos de aprendizado
+
+* Compreender o funcionamento básico do **PHP**
+* Integrar **PHP + HTML**
+* Aplicar **CSS** para estilização da interface
+* Utilizar **JavaScript** para interações simples
+* Trabalhar com **formulários**
+* Processar dados enviados pelo usuário com `POST`
+* Organizar arquivos de um projeto web
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -25,7 +39,7 @@ Este projeto foi criado com o objetivo de praticar:
 
 ## 📂 Estrutura do projeto
 
-```plaintext id="w80g1v"
+```plaintext id="w1j5a3"
 php-na-pratica/
 │
 ├── index.php
@@ -40,28 +54,28 @@ php-na-pratica/
 
 ## ⚙️ Funcionalidades
 
-* Exibição de página principal
+* Página principal com estrutura simples e organizada
 * Inclusão de cabeçalho e rodapé com PHP
-* Formulário para envio de nome
-* Processamento de dados via método `POST`
+* Formulário para entrada de nome
+* Processamento de dados com PHP
 * Estilização com CSS
 * Interação básica com JavaScript
-* Personalização com favicon e identidade visual
+* Favicon personalizado
+* Exibição de identidade visual com imagem da marca pessoal
 
-## ▶️ Como executar o projeto localmente
+## ▶️ Como executar localmente
 
-Para rodar este projeto corretamente, é necessário utilizar um servidor local com suporte a PHP, como:
+Para executar este projeto localmente, é necessário utilizar um servidor com suporte a PHP, como:
 
-* Laragon
-* XAMPP
-* WAMP
+* **Laragon**
+* **XAMPP**
+* **WAMP**
 
-### Passos:
+### Exemplo com Laragon
 
-1. Coloque a pasta do projeto dentro do diretório do servidor local
-   Exemplo no Laragon:
+1. Coloque a pasta do projeto em:
 
-```plaintext id="mpjczq"
+```plaintext id="ahk4or"
 C:\laragon\www\php-na-pratica
 ```
 
@@ -69,18 +83,42 @@ C:\laragon\www\php-na-pratica
 
 3. Acesse no navegador:
 
-```plaintext id="l8lmz8"
+```plaintext id="4svpf5"
 http://localhost/php-na-pratica
 ```
 
-## 📚 Aprendizados
+## ⬇️ Como baixar o projeto
 
-Este projeto foi desenvolvido como exercício prático para entender melhor:
+Você pode baixar ou clonar este projeto diretamente pelo GitHub.
 
-* Como o PHP funciona no lado do servidor
-* Como reutilizar partes do layout com `include`
-* Como capturar e processar dados enviados pelo usuário
-* Como organizar um projeto web simples
+### Clonar com Git
+
+```bash id="i7x7y9"
+git clone https://github.com/SEU-USUARIO/php-na-pratica.git
+```
+
+### Ou baixar manualmente
+
+1. Acesse o repositório no GitHub
+2. Clique em **Code**
+3. Clique em **Download ZIP**
+
+## 🌍 Hospedagem online
+
+O projeto possui versões publicadas para fins de estudo e visualização:
+
+* **InfinityFree** → ambiente com suporte a PHP
+* **Vercel** → opção adicional de publicação
+
+## 📚 Aprendizados aplicados
+
+Durante o desenvolvimento deste projeto, foram aplicados conceitos importantes como:
+
+* Separação entre estrutura, estilo e comportamento
+* Reutilização de componentes com `include`
+* Captura de dados de formulário com `$_POST`
+* Organização básica de arquivos em PHP
+* Estrutura inicial de uma aplicação web simples
 
 ## 👨‍💻 Autor
 
@@ -89,4 +127,4 @@ Marca pessoal: **WebDevLuis**
 
 ---
 
-Feito para fins de estudo e prática com PHP 🚀
+Feito para fins de estudo, prática e evolução no desenvolvimento web 🚀
